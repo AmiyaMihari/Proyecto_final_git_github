@@ -15,16 +15,28 @@
 - **Certificado:** Google Cloud Digital Leader
   - **Institución:** Google Cloud  
   - **Fecha:** 2024
-- **Curso:** Google Cloud Data Engineer   
+- **Certificado:** Google Cloud Data Engineer   
   - **Institución:** Google Cloud
   - **Fecha:** 2024
 
 ---
 
 ## Habilidades
-- **Lenguajes de Programación:** Python, JavaScript, C, bash.
+- **Lenguajes de Programación:**
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 - **Herramientas:** Git, GitHub, Docker, Linux, Google Cloud, Google Workspace. 
-- **Idiomas:** Español (Nativo), Inglés (Avanzado)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+- **Idiomas:** Español (Nativo), Inglés (Avanzado), Japonés (básico).
 
 ---
 
@@ -35,7 +47,7 @@
 
 ## Hobbies
 
-- Videojuegos, Música (piano), Lectura (filosofía), Puzzles (cubo de Rubik)
+- Videojuegos, Música (piano), Lectura (filosofía), Puzzles (cubo de Rubik), Anime, Vtubers.
 
 ---
 
