@@ -233,6 +233,8 @@ Esta lista sólo incluirá a los miembros de la rama EN y JP.
 - Mococo Abyssgard
 
   ![Mococo Abyssgard](https://static.wikitide.net/hololivewiki/thumb/9/92/Mococo_Abyssgard_-_Main_Page_Icon.png/80px-Mococo_Abyssgard_-_Main_Page_Icon.png)
+=======
+--- 
 
 ### **Justice**
 - Elizabeth Rose Bloodflame
