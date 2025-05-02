@@ -30,6 +30,7 @@
 - **Tecnologías Utilizadas:**  
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - **Características Destacadas:**  
   - 🌟 Comandos personalizados añadidos
   - 🌟 Inicio de sesión con los usuarios existentes en el sistema  
@@ -40,6 +41,7 @@
 
 ![Terminal](https://media.geeksforgeeks.org/wp-content/uploads/cli_example.png)
 
+Nota: Imagen de referencia solamente
 
 ---
 
@@ -73,6 +75,8 @@ Nota: Imagen de referencia solamente
 - **Tecnologías Utilizadas:**
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - VtubeStudio
+  - YouTube/Twitch
 
 - **Características Destacadas:**  
   - 🚀 Se pretende liberar el código para hacerlo Open Source
