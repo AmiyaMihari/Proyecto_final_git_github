@@ -15,7 +15,6 @@
   - ✨ Visualización de las rutas en el mapa
 - **Repositorio:**  
   Actualmente no disponible.
-  [GitHub Link](https://github.com/enlace-al-repositorio)  
 - **Estado:**  
   Completado ✅  
 
@@ -26,7 +25,6 @@
   Emulador de terminal en Linux, realizado con programación en bash, utilizando modularidad, generando funciones y comandos personalizados.
 - **Tecnologías Utilizadas:**  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 - **Características Destacadas:**  
   - 🌟 Comandos personalizados añadidos
   - 🌟 Inicio de sesión con los usuarios existentes en el sistema  
@@ -39,13 +37,16 @@
 
 ## 📌 **Proyecto 3: Robot seguidor de línea**
 - **Descripción:**  
-  Breve descripción del proyecto, explicando su propósito y objetivos.  
+  Robot seguidor de línea para concurso de Robótica en la Facultad de Ciencias, del curso de Robótica y Control. Este robot tiene incorporado un módulo Bluetooth para poder cambiar a modo de control manual.
 - **Tecnologías Utilizadas:**
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 - **Características Destacadas:**  
   - ✅ Control Bluetooh  
-  - ✅ Modo control remoto  
+  - ✅ Modo control remoto
+  - ✅ Calibración automática del color del suelo y la línea a seguir
+
 - **Repositorio:**  
   No disponible por el momento.
 - **Estado:**  
@@ -53,7 +54,22 @@
 
 ---
 
-## 📌 **Proyecto 3: IA Vtuber**
+## 📌 **Proyecto 4: IA Vtuber**
+- **Descripción:**  
+  Chatbot realizado con Python y LLMs para una Vtuber (streamer virtual) que pueda hablar en directo (Speech to Text) con el chat de YouTube y realizar conversaciones con otras personas (Text to Speech).
+- **Tecnologías Utilizadas:**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **Características Destacadas:**  
+  - 🚀 Se pretende liberar el código para hacerlo Open Source
+  - 🚀 El proyecto podrá correr de manera local
+  - 🚀 Consumo de recursos lo más optimizado posible
+  - 🚀 Vinculación con un modelo Vtuber usando Vtube Studio
+
+- **Repositorio:**  
+  No disponible por el momento.
+- **Estado:**  
+  En desarrollo 🚧
 
 
 ---
