@@ -106,3 +106,5 @@ Esta lista sólo incluirá a los miembros de la rama EN y JP.
 ---
 
 Si deseas más información sobre Hololive, puedes visitar su página oficial: [Hololive.tv](https://www.hololive.tv/). uwu
+##
+1. Holaaa jair, soy **Erick**. La verdad solo conocia a Nimu, pero por lo visto hay mucho lore. Saludos
