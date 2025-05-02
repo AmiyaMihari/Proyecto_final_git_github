@@ -1,21 +1,43 @@
 # Información Personal
 
-## Datos Básicos
-- **Nombre Completo:** Guillermo Jair Montiel Juárez
+- Guillermo Jair Montiel Juárez
 
 ---
 
 ## Formación Académica
-### Estudios Actuales
+### Universidad
 - **Institución:** Universidad Nacional Autónoma de México
-- **Programa de Estudios:** Licenciatura en Informática
-- **Año de Inicio - Año de Finalización (fecha estimada):** [Ejemplo: 2025 - 2028]
+- **Sede:** Facultad de Contaduría y Administración
+- **Programa de Estudios:** Licenciatura en Informática (2025 - 2028)
 
-### Cursos y Certificaciones
-- **Certificado:** Google Cloud Digital Leader
+### Cursos
+- **Profesionales en Tecnología y Soluciones Algorítmicas**
+  - **Institución:** UNAM
+  - **Fecha:** En curso~
+- **GenAI with Python Externship**
+  - **Institución:** UNAM
+  - **Fecha:** En curso~
+- **Fundamentals of Graphic Design**
+  - **Institución:** calarts
+  - **Fecha:** 2024
+- **GitHub Universe 2023 Cloud Skills Challenge**
+  - **Institución:** Microsoft
+  - **Fecha:** 2023
+- **Programming for Everybody (Getting Started with Python)**
+  - **Institución:** University of Michigan
+  - **Fecha:** 2023
+
+### Certificaciones
+- **Google Cloud Digital Leader**
   - **Institución:** Google Cloud  
   - **Fecha:** 2024
-- **Certificado:** Google Cloud Data Engineer   
+- **Professional Data Engineer**
+  - **Institución:** Google Cloud
+  - **Fecha:** 2024
+- **Profesional Google Workspace Administrator**
+  - **Institución:** Google Cloud
+  - **Fecha:** 2024
+- **Scrum Fundamentals Certified**
   - **Institución:** Google Cloud
   - **Fecha:** 2024
 
