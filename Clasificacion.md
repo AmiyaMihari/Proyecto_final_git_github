@@ -75,6 +75,13 @@ Esta lista sólo incluirá a los miembros de la rama EN y JP.
 - Hakos Baelz  
 - IRyS
 
+### **Advent**  
+- Shiori Novella  
+- Koseki Bijou  
+- Nerissa Ravencroft  
+- Fuwawa Abyssgard  
+- Mococo Abyssgard  
+
 ### **Justice**
 - Elizabeth Rose Bloodflame
 - Gigi Murin
