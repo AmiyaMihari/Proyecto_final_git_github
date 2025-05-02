@@ -21,7 +21,6 @@
 
 ![RouteOpt](https://nuvizz.com/wp-content/uploads/2023/04/Benefits-of-Route-Optimization.jpg)
 
-
 ---
 
 ## 📌 **Proyecto 2: Emulador de Terminal con Bash Scripting en Linux**
@@ -100,3 +99,4 @@ Nota: Imagen de [referencia](https://github.com/HRNPH/AIwaifu?tab=readme-ov-file
 ---
 
 Si deseas más información sobre alguno de los proyectos, no dudes en contactarme o visitar mi [GitHub](https://github.com/AmiyaMihari).
+=======
