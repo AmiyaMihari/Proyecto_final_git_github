@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clasificación de Vtubers de Hololive 🌟
 
 En este md clasifico a las Vtubers de **Hololive** según la generación a la que pertenecen. Hololive es una agencia internacional de origen japonés de Vtubers, cuenta con talentos que hablan diferentes idiomas y debutaron en distintas fechas.
@@ -254,3 +255,5 @@ Esta lista sólo incluirá a los miembros de la rama EN y JP.
 ---
 
 Si deseas más información sobre Hololive, puedes visitar su página oficial: [Hololive.tv](https://www.hololive.tv/). uwu
+=======
+>>>>>>> Proyectos
