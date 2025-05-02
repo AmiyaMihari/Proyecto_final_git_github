@@ -85,8 +85,9 @@
 - Lectura (filosofía)
 - Puzzles (cubo de Rubik)
 - Anime 
-- Vtubers.
-![anime1][https://img4.gelbooru.com//images/0c/f4/0cf40e6714384384daf6dad93251ca22.gif]
+- Vtubers
+
+![anime1](https://img4.gelbooru.com//images/0c/f4/0cf40e6714384384daf6dad93251ca22.gif)
 
 ---
 
