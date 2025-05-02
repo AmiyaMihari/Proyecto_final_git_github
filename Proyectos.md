@@ -100,3 +100,4 @@ Nota: Imagen de [referencia](https://github.com/HRNPH/AIwaifu?tab=readme-ov-file
 
 Si deseas más información sobre alguno de los proyectos, no dudes en contactarme o visitar mi [GitHub](https://github.com/AmiyaMihari).
 =======
+=======
