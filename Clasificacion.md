@@ -98,7 +98,7 @@ Esta lista sólo incluirá a los miembros de la rama EN y JP.
 
 - Houshou Marine
 
-  ![Houshou Marine](https://static.wikitide.net/hololivewiki/thumb/4/43/Houshou_Marine_-_Main_Page_Icon.png/80px-Houshou_Marine_Page_Icon.png)
+  ![Houshou Marine](https://static.wikitide.net/hololivewiki/thumb/4/43/Houshou_Marine_-_Main_Page_Icon.png/80px-Houshou_Marine_-_Main_Page_Icon.png)
 
 - Shirogane Noel
 
