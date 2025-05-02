@@ -77,6 +77,7 @@ Actualmente estoy aprendiendo y desarrollando proyectos relacionados a la **Inte
 - Liderazgo
 
 ![anime2](https://pbs.twimg.com/media/Go7hHlxXAAA5k9K?format=jpg&name=900x900)
+
 ~~Vtuber de apreciación [Ferumy](https://x.com/FerumiKaipa)~~
 
 ---
@@ -107,4 +108,4 @@ Actualmente estoy aprendiendo y desarrollando proyectos relacionados a la **Inte
 - e-mail: jair.montielj@gmail.com
 
 ---
-Gracias por leer. ⸜(｡˃ ᵕ ˂ )⸝♡
+## Gracias por leer. ⸜(｡˃ ᵕ ˂ )⸝♡
