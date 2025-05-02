@@ -31,6 +31,7 @@
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 - **Características Destacadas:**  
   - 🌟 Comandos personalizados añadidos
   - 🌟 Inicio de sesión con los usuarios existentes en el sistema  
@@ -75,12 +76,15 @@ Nota: Imagen de referencia solamente
 - **Tecnologías Utilizadas:**
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
+
   - VtubeStudio
   - YouTube/Twitch
-
+  - OBS
+  
 - **Características Destacadas:**  
   - 🚀 Se pretende liberar el código para hacerlo Open Source
-  - 🚀 El proyecto podrá correr de manera local
+  - 🚀 El proyecto podrá correr de manera local y en la nube
   - 🚀 Consumo de recursos lo más optimizado posible
   - 🚀 Vinculación con un modelo Vtuber usando Vtube Studio
 
