@@ -7,7 +7,6 @@
 
 Actualmente estoy aprendiendo y desarrollando proyectos relacionados a la **Inteligencia Artificial**, asistentes virtuales y creación de contenido. **uwu**
 
-![anime0](https://img4.gelbooru.com//images/79/60/79609a9237415123d3448a69e329df73.gif)
 
 ---
 
