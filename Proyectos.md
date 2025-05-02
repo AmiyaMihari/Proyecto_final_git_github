@@ -15,7 +15,7 @@
   - ✨ Optimización dinámica semanal
   - ✨ Visualización de las rutas en el mapa
 - **Repositorio:**  
-  No disponible por el momento.
+  *No disponible por el momento.*
 - **Estado:**  
   Completado ✅  
 
@@ -60,7 +60,7 @@ Nota: Imagen de referencia solamente
   - ✅ Calibración automática del color del suelo y la línea a seguir
 
 - **Repositorio:**  
-  No disponible por el momento.
+  *No disponible por el momento.*
 - **Estado:**  
   Completado ✅  
 
@@ -81,7 +81,7 @@ Nota: Imagen de referencia solamente
   - VtubeStudio
   - YouTube/Twitch
   - OBS
-  
+
 - **Características Destacadas:**  
   - 🚀 Se pretende liberar el código para hacerlo Open Source
   - 🚀 El proyecto podrá correr de manera local y en la nube
@@ -89,7 +89,7 @@ Nota: Imagen de referencia solamente
   - 🚀 Vinculación con un modelo Vtuber usando Vtube Studio
 
 - **Repositorio:**  
-  No disponible por el momento.
+  *No disponible por el momento.*
 - **Estado:**  
   En desarrollo 🚧
 
